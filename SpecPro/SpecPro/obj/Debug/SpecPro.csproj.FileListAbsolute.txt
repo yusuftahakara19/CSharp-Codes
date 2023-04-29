@@ -1,0 +1,10 @@
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\bin\Debug\SpecPro.exe.config
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\bin\Debug\SpecPro.exe
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\bin\Debug\SpecPro.pdb
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.csprojResolveAssemblyReference.cache
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.Form1.resources
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.Properties.Resources.resources
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.csproj.GenerateResource.Cache
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.exe
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.pdb
+C:\Users\ytkar\Desktop\SpecPro\SpecPro\SpecPro\obj\Debug\SpecPro.Grafik.resources
